@@ -1,0 +1,29 @@
+·字符串：
+    re:正则表达式，判断字符串是否指定
+    StringIO：提供以文件形式来读写字符串
+    struck：以二进制字节序列来解释字符串
+·数据类型：
+    datatime：提供操作日期和时间的类
+    collections：容器数据类型，实现通用内置容器、字典、列表、集合、元组
+    pprint：整洁打印功能
+    
+·数学运算：
+    random：各种分布的伪随机数生成器
+    math：数学函数，不适用复数
+    cmath：为复数提供的数学函数
+    operator：重载运算符
+    
+·文件和目录：
+    os.path：常用路径名操作
+    filecmp：文件和目录的比较
+    shutil：高级文件操作，支持文件的复制和删除
+    
+·操作系统：
+    time
+    argparse
+    io
+    logging
+    logging.config
+    os
+    sys：访问和维护
+    
