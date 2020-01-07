@@ -1,0 +1,2 @@
+with open(filename, mode, encoding)as fp:
+    #这里写通过文件对象fp读写文件内容的语句块
