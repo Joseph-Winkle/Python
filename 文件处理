@@ -1,0 +1,6 @@
+open_command: opened_file = open('xxx.csv')     #the output is an object
+read_command: read_file = reader(opened_file)
+              Once we've opened the file, we read it in using a command called reader(). We import the reader() command from the csv                     module using the code from csv import reader (a module is a collection of commands and variables — we'll learn more about                 modules in the next course).
+list_command: apps_data = list(read_file)
+              print(apps_data[:])
+float(xxx)
